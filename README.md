@@ -42,26 +42,6 @@ This is an eCommerce web application created with M(ongoDb)E(xpress)R(eact)N(ode
 - Eslint
 - React Helmet
 
-# Live Version
-
-https://proshopapp-by-mariosknl.herokuapp.com/
-
-# AUTHOR
-
-- Github: [@mariosknl](https://github.com/mariosknl)
-- Twitter: [@mariosknl](https://twitter.com/MariosKnl)
-- Linkedln: [marios-kanellopoulos](https://www.linkedin.com/in/marios-kanellopoulos)
-- Portfolio: [marios-kanellopoulos](https://marioskanellopoulos.com/)
-
-# Show your support
-
-Give ⭐️ if you like this project!
-
-# Acknowledgments
-
-- Github: [@bradtraversy](https://github.com/bradtraversy)
-- Website: [traversy-media](http://traversymedia.com/)
-
 ### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
